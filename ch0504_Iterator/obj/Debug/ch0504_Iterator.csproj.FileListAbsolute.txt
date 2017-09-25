@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0504_Iterator\bin\Debug\ch0504_Iterator.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0504_Iterator\bin\Debug\ch0504_Iterator.exe
+E:\workspace\GoFDesignPatternStudy\ch0504_Iterator\bin\Debug\ch0504_Iterator.pdb
+E:\workspace\GoFDesignPatternStudy\ch0504_Iterator\obj\Debug\ch0504_Iterator.exe
+E:\workspace\GoFDesignPatternStudy\ch0504_Iterator\obj\Debug\ch0504_Iterator.pdb

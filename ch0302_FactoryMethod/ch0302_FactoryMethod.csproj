@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9856D1F-8C98-436D-A129-D8F7B3185D53}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ch0302_FactoryMethod</RootNamespace>
+    <AssemblyName>ch0302_FactoryMethod</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MobileProduct\Client.cs" />
+    <Compile Include="MobileProduct\IMobile.cs" />
+    <Compile Include="MobileProduct\IMobileFactory.cs" />
+    <Compile Include="MobileProduct\Motorola.cs" />
+    <Compile Include="MobileProduct\MotorolaFactory.cs" />
+    <Compile Include="MobileProduct\Nokia.cs" />
+    <Compile Include="MobileProduct\NokiaFactory.cs" />
+    <Compile Include="MultiPages\Client.cs" />
+    <Compile Include="MultiPages\Document.cs" />
+    <Compile Include="MultiPages\Page.cs" />
+    <Compile Include="MultiPages\Pages\BibliographyPage.cs" />
+    <Compile Include="MultiPages\Pages\ConclusionPage.cs" />
+    <Compile Include="MultiPages\Pages\EducationPage.cs" />
+    <Compile Include="MultiPages\Pages\ExperiencePage.cs" />
+    <Compile Include="MultiPages\Pages\IntroductionPage.cs" />
+    <Compile Include="MultiPages\Pages\ResultsPage.cs" />
+    <Compile Include="MultiPages\Pages\SkillsPage.cs" />
+    <Compile Include="MultiPages\Pages\SummaryPage.cs" />
+    <Compile Include="MultiPages\Report.cs" />
+    <Compile Include="MultiPages\Resume.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

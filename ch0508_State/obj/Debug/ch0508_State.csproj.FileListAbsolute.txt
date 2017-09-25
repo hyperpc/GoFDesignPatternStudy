@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0508_State\bin\Debug\ch0508_State.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0508_State\bin\Debug\ch0508_State.exe
+E:\workspace\GoFDesignPatternStudy\ch0508_State\bin\Debug\ch0508_State.pdb
+E:\workspace\GoFDesignPatternStudy\ch0508_State\obj\Debug\ch0508_State.exe
+E:\workspace\GoFDesignPatternStudy\ch0508_State\obj\Debug\ch0508_State.pdb

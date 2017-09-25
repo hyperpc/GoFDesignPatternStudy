@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0507_Observer\bin\Debug\ch0507_Observer.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0507_Observer\bin\Debug\ch0507_Observer.exe
+E:\workspace\GoFDesignPatternStudy\ch0507_Observer\bin\Debug\ch0507_Observer.pdb
+E:\workspace\GoFDesignPatternStudy\ch0507_Observer\obj\Debug\ch0507_Observer.exe
+E:\workspace\GoFDesignPatternStudy\ch0507_Observer\obj\Debug\ch0507_Observer.pdb

@@ -1,0 +1,6 @@
+E:\workspace\GoFDesignPatternStudy\ch0302_FactoryMethod\bin\Debug\ch0302_FactoryMethod.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0302_FactoryMethod\bin\Debug\ch0302_FactoryMethod.exe
+E:\workspace\GoFDesignPatternStudy\ch0302_FactoryMethod\bin\Debug\ch0302_FactoryMethod.pdb
+E:\workspace\GoFDesignPatternStudy\ch0302_FactoryMethod\obj\Debug\ch0302_FactoryMethod.exe
+E:\workspace\GoFDesignPatternStudy\ch0302_FactoryMethod\obj\Debug\ch0302_FactoryMethod.pdb
+E:\workspace\GoFDesignPatternStudy\ch0302_FactoryMethod\obj\Debug\ch0302_FactoryMethod.csprojResolveAssemblyReference.cache

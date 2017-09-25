@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0304_Builder\bin\Debug\ch0304_Builder.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0304_Builder\bin\Debug\ch0304_Builder.exe
+E:\workspace\GoFDesignPatternStudy\ch0304_Builder\bin\Debug\ch0304_Builder.pdb
+E:\workspace\GoFDesignPatternStudy\ch0304_Builder\obj\Debug\ch0304_Builder.exe
+E:\workspace\GoFDesignPatternStudy\ch0304_Builder\obj\Debug\ch0304_Builder.pdb

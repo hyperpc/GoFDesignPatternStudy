@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0402_Bridge\bin\Debug\ch0402_Bridge.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0402_Bridge\bin\Debug\ch0402_Bridge.exe
+E:\workspace\GoFDesignPatternStudy\ch0402_Bridge\bin\Debug\ch0402_Bridge.pdb
+E:\workspace\GoFDesignPatternStudy\ch0402_Bridge\obj\Debug\ch0402_Bridge.exe
+E:\workspace\GoFDesignPatternStudy\ch0402_Bridge\obj\Debug\ch0402_Bridge.pdb

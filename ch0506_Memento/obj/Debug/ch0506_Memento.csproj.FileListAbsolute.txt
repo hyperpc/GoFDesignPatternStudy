@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0506_Memento\bin\Debug\ch0506_Memento.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0506_Memento\bin\Debug\ch0506_Memento.exe
+E:\workspace\GoFDesignPatternStudy\ch0506_Memento\bin\Debug\ch0506_Memento.pdb
+E:\workspace\GoFDesignPatternStudy\ch0506_Memento\obj\Debug\ch0506_Memento.exe
+E:\workspace\GoFDesignPatternStudy\ch0506_Memento\obj\Debug\ch0506_Memento.pdb

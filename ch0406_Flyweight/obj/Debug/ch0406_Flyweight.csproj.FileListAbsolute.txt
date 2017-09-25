@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0406_Flyweight\bin\Debug\ch0406_Flyweight.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0406_Flyweight\bin\Debug\ch0406_Flyweight.exe
+E:\workspace\GoFDesignPatternStudy\ch0406_Flyweight\bin\Debug\ch0406_Flyweight.pdb
+E:\workspace\GoFDesignPatternStudy\ch0406_Flyweight\obj\Debug\ch0406_Flyweight.exe
+E:\workspace\GoFDesignPatternStudy\ch0406_Flyweight\obj\Debug\ch0406_Flyweight.pdb

@@ -1,0 +1,1 @@
+E:\workspace\GoFDesignPatternStudy\ch0503_Interpremeter\bin\Debug\ch0503_Interpremeter.exe.config

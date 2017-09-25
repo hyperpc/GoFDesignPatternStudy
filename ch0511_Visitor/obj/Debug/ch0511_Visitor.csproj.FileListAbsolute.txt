@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0511_Visitor\bin\Debug\ch0511_Visitor.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0511_Visitor\bin\Debug\ch0511_Visitor.exe
+E:\workspace\GoFDesignPatternStudy\ch0511_Visitor\bin\Debug\ch0511_Visitor.pdb
+E:\workspace\GoFDesignPatternStudy\ch0511_Visitor\obj\Debug\ch0511_Visitor.exe
+E:\workspace\GoFDesignPatternStudy\ch0511_Visitor\obj\Debug\ch0511_Visitor.pdb

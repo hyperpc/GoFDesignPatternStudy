@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0305_Prototype\bin\Debug\ch0305_Prototype.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0305_Prototype\bin\Debug\ch0305_Prototype.exe
+E:\workspace\GoFDesignPatternStudy\ch0305_Prototype\bin\Debug\ch0305_Prototype.pdb
+E:\workspace\GoFDesignPatternStudy\ch0305_Prototype\obj\Debug\ch0305_Prototype.exe
+E:\workspace\GoFDesignPatternStudy\ch0305_Prototype\obj\Debug\ch0305_Prototype.pdb

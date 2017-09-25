@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0404_Decorator\bin\Debug\ch0404_Decorator.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0404_Decorator\bin\Debug\ch0404_Decorator.exe
+E:\workspace\GoFDesignPatternStudy\ch0404_Decorator\bin\Debug\ch0404_Decorator.pdb
+E:\workspace\GoFDesignPatternStudy\ch0404_Decorator\obj\Debug\ch0404_Decorator.exe
+E:\workspace\GoFDesignPatternStudy\ch0404_Decorator\obj\Debug\ch0404_Decorator.pdb

@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0503_Interpremeter\bin\Debug\ch0503_Interpreter.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0503_Interpremeter\bin\Debug\ch0503_Interpreter.exe
+E:\workspace\GoFDesignPatternStudy\ch0503_Interpremeter\bin\Debug\ch0503_Interpreter.pdb
+E:\workspace\GoFDesignPatternStudy\ch0503_Interpremeter\obj\Debug\ch0503_Interpreter.exe
+E:\workspace\GoFDesignPatternStudy\ch0503_Interpremeter\obj\Debug\ch0503_Interpreter.pdb

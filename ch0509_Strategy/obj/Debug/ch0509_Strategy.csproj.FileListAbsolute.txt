@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0509_Strategy\bin\Debug\ch0509_Strategy.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0509_Strategy\bin\Debug\ch0509_Strategy.exe
+E:\workspace\GoFDesignPatternStudy\ch0509_Strategy\bin\Debug\ch0509_Strategy.pdb
+E:\workspace\GoFDesignPatternStudy\ch0509_Strategy\obj\Debug\ch0509_Strategy.exe
+E:\workspace\GoFDesignPatternStudy\ch0509_Strategy\obj\Debug\ch0509_Strategy.pdb

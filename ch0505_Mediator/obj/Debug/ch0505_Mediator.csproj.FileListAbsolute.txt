@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0505_Mediator\bin\Debug\ch0505_Mediator.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0505_Mediator\bin\Debug\ch0505_Mediator.exe
+E:\workspace\GoFDesignPatternStudy\ch0505_Mediator\bin\Debug\ch0505_Mediator.pdb
+E:\workspace\GoFDesignPatternStudy\ch0505_Mediator\obj\Debug\ch0505_Mediator.exe
+E:\workspace\GoFDesignPatternStudy\ch0505_Mediator\obj\Debug\ch0505_Mediator.pdb

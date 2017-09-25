@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0407_Proxy\bin\Debug\ch0407_Proxy.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0407_Proxy\bin\Debug\ch0407_Proxy.exe
+E:\workspace\GoFDesignPatternStudy\ch0407_Proxy\bin\Debug\ch0407_Proxy.pdb
+E:\workspace\GoFDesignPatternStudy\ch0407_Proxy\obj\Debug\ch0407_Proxy.exe
+E:\workspace\GoFDesignPatternStudy\ch0407_Proxy\obj\Debug\ch0407_Proxy.pdb

@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0510_TemplateMethod\bin\Debug\ch0510_TemplateMethod.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0510_TemplateMethod\bin\Debug\ch0510_TemplateMethod.exe
+E:\workspace\GoFDesignPatternStudy\ch0510_TemplateMethod\bin\Debug\ch0510_TemplateMethod.pdb
+E:\workspace\GoFDesignPatternStudy\ch0510_TemplateMethod\obj\Debug\ch0510_TemplateMethod.exe
+E:\workspace\GoFDesignPatternStudy\ch0510_TemplateMethod\obj\Debug\ch0510_TemplateMethod.pdb

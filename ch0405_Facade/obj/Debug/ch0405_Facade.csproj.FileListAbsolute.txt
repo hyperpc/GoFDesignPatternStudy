@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0405_Facade\bin\Debug\ch0405_Facade.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0405_Facade\bin\Debug\ch0405_Facade.exe
+E:\workspace\GoFDesignPatternStudy\ch0405_Facade\bin\Debug\ch0405_Facade.pdb
+E:\workspace\GoFDesignPatternStudy\ch0405_Facade\obj\Debug\ch0405_Facade.exe
+E:\workspace\GoFDesignPatternStudy\ch0405_Facade\obj\Debug\ch0405_Facade.pdb

@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0301_SimpleFactory\bin\Debug\ch0301_SimpleFactory.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0301_SimpleFactory\bin\Debug\ch0301_SimpleFactory.exe
+E:\workspace\GoFDesignPatternStudy\ch0301_SimpleFactory\bin\Debug\ch0301_SimpleFactory.pdb
+E:\workspace\GoFDesignPatternStudy\ch0301_SimpleFactory\obj\Debug\ch0301_SimpleFactory.exe
+E:\workspace\GoFDesignPatternStudy\ch0301_SimpleFactory\obj\Debug\ch0301_SimpleFactory.pdb

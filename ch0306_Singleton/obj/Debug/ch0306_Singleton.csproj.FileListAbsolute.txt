@@ -1,0 +1,5 @@
+E:\workspace\GoFDesignPatternStudy\ch0306_Singleton\bin\Debug\ch0306_Singleton.exe.config
+E:\workspace\GoFDesignPatternStudy\ch0306_Singleton\bin\Debug\ch0306_Singleton.exe
+E:\workspace\GoFDesignPatternStudy\ch0306_Singleton\bin\Debug\ch0306_Singleton.pdb
+E:\workspace\GoFDesignPatternStudy\ch0306_Singleton\obj\Debug\ch0306_Singleton.exe
+E:\workspace\GoFDesignPatternStudy\ch0306_Singleton\obj\Debug\ch0306_Singleton.pdb
